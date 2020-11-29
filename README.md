@@ -9,8 +9,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ruslan-hryshyn-392a451a1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ruslan-hryshyn-392a451a1" height="30" width="40" /></a>
-</p>
-
 <a href="https://t.me/rolaxxx3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/telegram.svg" alt="rolaxxx3" height="30" width="40" /></a>
 </p>
 
