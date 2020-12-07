@@ -20,7 +20,7 @@
 </p>
 <p align="left">
 
-### Spotify Playing 🎧
+<h3 align="left">Spotify Playing 🎧</h3>
 
 [<img src="https://novatorem.rolaxxx3.vercel.app/api/spotify" alt="Rolaxxx3 Spotify Playing" width="350" />](https://open.spotify.com/user/31a57va5uxgsx5ixm2bw2x4uow5e)
 </p>
