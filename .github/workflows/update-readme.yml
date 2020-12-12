@@ -5,7 +5,7 @@ on:
     - cron: '0 * * * *'
 
 jobs:
-  update-readme:
+  update-readme-with-waka:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
