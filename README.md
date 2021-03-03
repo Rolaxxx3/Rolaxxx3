@@ -1,6 +1,6 @@
 ### Hi there, I'm Ruslan Hryshyn - Rolaxxx3 👋
 
-## I'm a young Front-End Developer
+## I'm a Front-End Developer from Kharkiv
 
 - 🔭 I’m currently working on Speakwiz
 - 🌱 I’m currently learning C, Nuxt.js
