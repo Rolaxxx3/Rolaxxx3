@@ -2,8 +2,8 @@
 
 ## I'm a Front-End Developer from Kharkiv
 
-- 🔭 I’m currently working on Speakwiz
-- 🌱 I’m currently learning C, Nuxt.js
+- 🔭 I’m currently working on Procoders
+- 🌱 I’m currently learning Nuxt.js & Typescript
 - ⚡ Fun fact: I love to travel and camping
 
 <h3 align="left">Connect with me:</h3>
